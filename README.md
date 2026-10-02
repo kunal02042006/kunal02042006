@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kunal Kumar
 
-### 🎓 B.Tech CSE Student | 💻 DSA in C++ | 🌐 Web Development
+### 🎓 B.Tech CSIT Student | 💻 DSA in C++ | 🌐 Web Development
 
-I'm a Computer Science Engineering student passionate about **Data Structures & Algorithms, Problem Solving and Web Development**.
+I'm a Computer Science and Information Technology student passionate about **Data Structures & Algorithms, Problem Solving and Web Development**.
 
 - 🔭 Currently working on **DSA with C++**
 - 🌱 Currently learning **Web Development**
@@ -16,19 +16,19 @@ I'm a Computer Science Engineering student passionate about **Data Structures & 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/" target="_blank">
+<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/">
 <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Kumar-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/kunal_kumar_0204/" target="_blank">
+<a href="https://www.instagram.com/kunal_kumar_0204/">
 <img src="https://img.shields.io/badge/Instagram-kunal__kumar__0204-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/Kunal0204/" target="_blank">
+<a href="https://leetcode.com/u/Kunal0204/">
 <img src="https://img.shields.io/badge/LeetCode-Kunal0204-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e" target="_blank">
+<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e">
 <img src="https://img.shields.io/badge/Code360-Kunal-blue?style=for-the-badge" />
 </a>
 
@@ -87,16 +87,6 @@ I'm a Computer Science Engineering student passionate about **Data Structures & 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal02042006&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunal02042006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </p>
 
