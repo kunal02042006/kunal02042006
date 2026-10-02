@@ -2,11 +2,12 @@
 
 ### 🎓 B.Tech CSIT Student | 💻 DSA in C++ | 🌐 Web Development
 
-I'm a Computer Science and Information Technology student passionate about **Data Structures & Algorithms, Problem Solving and Web Development**.
+I'm a Computer Science and Information Technology student passionate about **Data Structures & Algorithms, Problem Solving, Web Development and System Design**.
 
 - 🔭 Currently working on **DSA with C++**
 - 🌱 Currently learning **Web Development**
 - 💻 Practicing problems on **LeetCode & Code360**
+- 🏗️ Exploring **System Design**
 - 🚀 Preparing for **Internships & Placements**
 - 📚 Always learning and improving my coding skills
 
@@ -16,23 +17,20 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/" target="_blank">
-<img src="https://img.icons8.com/color/64/linkedin.png" width="45" height="45"/>
+<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/">
+<img src="https://img.shields.io/badge/LINKEDIN-KUNAL%20KUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/kunal_kumar_0204/" target="_blank">
-<img src="https://img.icons8.com/color/64/instagram-new.png" width="45" height="45"/>
+<a href="https://www.instagram.com/kunal_kumar_0204/">
+<img src="https://img.shields.io/badge/INSTAGRAM-KUNAL__KUMAR__0204-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Kunal0204/" target="_blank">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" height="45"/>
+<a href="https://leetcode.com/u/Kunal0204/">
+<img src="https://img.shields.io/badge/LEETCODE-KUNAL0204-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e" target="_blank">
-<img src="https://img.shields.io/badge/Code360-Profile-111111?style=for-the-badge" height="45"/>
+<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e">
+<img src="https://img.shields.io/badge/CODE360-KUNAL-111111?style=for-the-badge&logo=coder&logoColor=white" />
 </a>
 
 </p>
@@ -44,23 +42,33 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 ### Languages
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
 </p>
 
 ### Web Development
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
 ### Tools
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </p>
 
 ---
@@ -101,6 +109,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 - 🌐 **Web Development**
 - 🧠 **Problem Solving**
 - 🔧 **Git & GitHub**
+- 🏗️ **System Design**
 
 ---
 
@@ -108,6 +117,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 - 🧠 Master Data Structures & Algorithms
 - 🌐 Build real-world Web Development projects
+- 🏗️ Learn System Design fundamentals
 - 💻 Solve more problems on LeetCode & Code360
 - 💼 Get an internship
 - 🚀 Prepare for software engineering placements
@@ -117,7 +127,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ## 📌 Currently Working On
 
-**DSA → C++ → Problem Solving → Web Development → Projects → Internship Preparation**
+**DSA → C++ → Web Development → Problem Solving → System Design → Projects → Internship Preparation**
 
 ---
 
