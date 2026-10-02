@@ -16,38 +16,12 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 ## 🌐 Socials:
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/">
-<img src="https://img.icons8.com/color/64/linkedin.png" width="45" height="45">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/kunal_kumar_0204/">
-<img src="https://img.icons8.com/color/64/instagram-new.png" width="45" height="45">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:kunalkumar701121@gmail.com">
-<img src="https://img.icons8.com/color/64/gmail-new.png" width="45" height="45">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Kunal0204/">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" height="45">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e">
-<img src="https://img.icons8.com/color/64/code.png" width="45" height="45">
-</a>
-
+<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"></a>
+<a href="https://www.instagram.com/kunal_kumar_0204/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:kunalkumar701121@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://leetcode.com/u/Kunal0204/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e"><img src="https://img.shields.io/badge/CODE360-F89F1B?style=for-the-badge"></a>
 </p>
-
----
 
 ## 💻 Tech Stack:
 
