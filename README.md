@@ -17,22 +17,22 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 <p align="left">
 
 <a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/kunal_kumar_0204/" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="42" height="42" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Kunal0204/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="42" height="42" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e" target="_blank">
-<img src="https://cdn.simpleicons.org/naukri/4A90E2" width="40" height="40" />
+<img src="https://img.shields.io/badge/Code360-000000?style=for-the-badge&logo=coder&logoColor=white" height="42" />
 </a>
 
 </p>
