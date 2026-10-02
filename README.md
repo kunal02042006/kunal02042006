@@ -53,12 +53,11 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 ## 🛠️ Projects
 
 - 🔗 [Leetcode Solutions](https://github.com/kunal02042006/Leetcode) – C++ solutions to LeetCode problems
-- 🔗 **Project name** – one line about what it does (HTML, CSS, JavaScript)
-- 🔗 **Project name** – one line about what it does
 
 ---
 
 ## 📊 Stats
+
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap">
 </p>
@@ -66,19 +65,13 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kunal02042006&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
-## 🎯 My Goals
 
-- 🧠 Master Data Structures & Algorithms
-- 🌐 Build real-world Web Development projects
-- 🏗️ Learn System Design fundamentals
-- 💼 Get an internship and prepare for software engineering placements
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kunal02042006&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
-<div align="center">
+## 🎯 My Goals
 
-### ⭐ Thanks for visiting my profile!
-
-**Keep Coding • Keep Learning • Keep Growing 🚀**
-
-</div>
+- 🧠 Master
