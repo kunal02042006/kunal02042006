@@ -74,4 +74,17 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ## 🎯 My Goals
 
-- 🧠 Master
+- 🧠 Master Data Structures & Algorithms
+- 🌐 Build real-world Web Development projects
+- 🏗️ Learn System Design fundamentals
+- 💼 Get an internship and prepare for software engineering placements
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Coding • Keep Learning • Keep Growing 🚀**
+
+</div>
