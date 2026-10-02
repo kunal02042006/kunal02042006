@@ -2,10 +2,10 @@
 
 ### 🎓 B.Tech CSIT Student | 💻 DSA in C++ | 🌐 Web Development
 
-I'm a Computer Science and Information Technology student passionate about **Data Structures & Algorithms, Problem Solving, Web Development and System Design**.
+I'm a Computer Science and Information Technology student passionate about **Data Structures & Algorithms, Problem Solving and Web Development**.
 
-- 🔭 Currently working on **DSA with C++**
-- 🌱 Currently learning **Web Development**
+- 🔭 I'm currently working on **DSA with C++**
+- 🌱 I'm currently learning **Web Development**
 - 💻 Practicing problems on **LeetCode & Code360**
 - 🏗️ Exploring **System Design**
 - 🚀 Preparing for **Internships & Placements**
@@ -13,31 +13,31 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
+## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/">
-<img src="https://img.shields.io/badge/LINKEDIN-KUNAL%20KUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-KUNAL_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/kunal_kumar_0204/">
 <img src="https://img.shields.io/badge/INSTAGRAM-KUNAL__KUMAR__0204-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="mailto:kunalkumar701121@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-KUNALKUMAR701121%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <a href="https://leetcode.com/u/Kunal0204/">
-<img src="https://img.shields.io/badge/LEETCODE-KUNAL0204-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/LEETCODE-KUNAL0204-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e">
 <img src="https://img.shields.io/badge/CODE360-KUNAL-111111?style=for-the-badge&logo=coder&logoColor=white" />
 </a>
 
-</p>
-
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 ### Languages
 
@@ -55,7 +55,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </p>
 
@@ -63,11 +63,11 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
 
