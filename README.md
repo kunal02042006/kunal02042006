@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kunal Kumar
+# 👋 Hi, I'm **Kunal Kumar**
 
 ### 🎓 B.Tech CSIT Student | 💻 DSA in C++ | 🌐 Web Development
 
@@ -16,20 +16,23 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/">
-<img src="https://img.shields.io/badge/LinkedIn-Kunal%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/kunal_kumar_0204/">
-<img src="https://img.shields.io/badge/Instagram-kunal__kumar__0204-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/kunal_kumar_0204/" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Kunal0204/">
-<img src="https://img.shields.io/badge/LeetCode-Kunal0204-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<a href="https://leetcode.com/u/Kunal0204/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e">
-<img src="https://img.shields.io/badge/Code360-Kunal-blue?style=for-the-badge" />
+<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e" target="_blank">
+<img src="https://cdn.simpleicons.org/naukri/4A90E2" width="40" height="40" />
 </a>
 
 </p>
@@ -40,13 +43,13 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### Web Development
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,7 +57,7 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ### Tools
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
