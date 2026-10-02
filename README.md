@@ -17,22 +17,22 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 <p align="left">
 
 <a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" />
+<img src="https://img.icons8.com/color/64/linkedin.png" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/kunal_kumar_0204/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="42" height="42" />
+<img src="https://img.icons8.com/color/64/instagram-new.png" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Kunal0204/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="42" height="42" />
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e" target="_blank">
-<img src="https://img.shields.io/badge/Code360-000000?style=for-the-badge&logo=coder&logoColor=white" height="42" />
+<img src="https://img.shields.io/badge/Code360-Profile-111111?style=for-the-badge" height="45"/>
 </a>
 
 </p>
@@ -97,8 +97,34 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ## 🚀 What I'm Currently Learning
 
-```text
-DSA with C++        ███████████████████░░
-Web Development     ████████████░░░░░░░░
-Problem Solving     ███████████████░░░░░
-Git & GitHub        █████████████████░░░
+- 💻 **DSA with C++**
+- 🌐 **Web Development**
+- 🧠 **Problem Solving**
+- 🔧 **Git & GitHub**
+
+---
+
+## 🎯 My Goals
+
+- 🧠 Master Data Structures & Algorithms
+- 🌐 Build real-world Web Development projects
+- 💻 Solve more problems on LeetCode & Code360
+- 💼 Get an internship
+- 🚀 Prepare for software engineering placements
+- 📈 Become a better problem solver
+
+---
+
+## 📌 Currently Working On
+
+**DSA → C++ → Problem Solving → Web Development → Projects → Internship Preparation**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Coding • Keep Learning • Keep Growing 🚀**
+
+</div>
