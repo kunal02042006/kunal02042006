@@ -59,18 +59,13 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 ---
 
 ## 📊 Stats
-
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap" width="48%">
-<img src="https://github-readme-stats.vercel.app/api?username=kunal02042006&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap">
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kunal02042006&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=kunal02042006&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
-
----
-
 ## 🎯 My Goals
 
 - 🧠 Master Data Structures & Algorithms
