@@ -12,19 +12,19 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/kunal-kumar-5961a4428/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/Kunal0204/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e"><img src="https://img.shields.io/badge/CODE360-F89F1B?style=for-the-badge"></a>
+<a href="https://www.naukri.com/code360/profile/e587a138-b55b-4416-83d9-82aa0135847e"><img src="https://img.shields.io/badge/CODE360-F89F1B?style=for-the-badge&logoColor=white"></a>
 <a href="https://www.instagram.com/kunal_kumar_0204/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:kunalkumar701121@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### Languages
 
@@ -53,33 +53,33 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 ## 🛠️ Projects
 
 ### 📚 Drona Books – Online Bookstore
-A responsive bookstore web app with 10 categories and 60 engineering, CS and MBA books. Features an animated landing page, add/remove cart, cart saved across refreshes, and a demo login (no backend).
+
+A responsive bookstore web app featuring 10 categories and 60 engineering, computer science and MBA books. Includes an animated landing page, interactive shopping cart, and demo login functionality.
 
 **Tech:** HTML5, CSS3, JavaScript
 
-🔗 [Live Demo](https://kunal02042006.github.io/REPO-NAME/) | [Source Code](https://github.com/kunal02042006/REPO-NAME)
+🔗 [Live Demo](https://kunal02042006.github.io/drona-books/) | [Source Code](https://github.com/kunal02042006/drona-books)
 
 ### 🧮 LeetCode Solutions
-C++ solutions to LeetCode problems.
+
+C++ solutions to LeetCode problems, focused on Data Structures and Algorithms.
 
 🔗 [Source Code](https://github.com/kunal02042006/Leetcode)
-
-- 🔗 [Leetcode Solutions](https://github.com/kunal02042006/Leetcode) – C++ solutions to LeetCode problems
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap">
+<img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunal02042006&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=kunal02042006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kunal02042006&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=kunal02042006&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
