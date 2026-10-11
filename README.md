@@ -60,6 +60,8 @@ A bookstore web application featuring 10 categories and 60 engineering, computer
 
 🔗 [Live Demo](https://kunal02042006.github.io/drona-books/) | [Source Code](https://github.com/kunal02042006/drona-books)
 
+---
+
 ### 🧮 LeetCode Solutions
 
 C++ solutions to LeetCode problems.
