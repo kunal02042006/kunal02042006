@@ -52,6 +52,18 @@ I'm a Computer Science and Information Technology student passionate about **Dat
 
 ## 🛠️ Projects
 
+### 📚 Drona Books – Online Bookstore
+A responsive bookstore web app with 10 categories and 60 engineering, CS and MBA books. Features an animated landing page, add/remove cart, cart saved across refreshes, and a demo login (no backend).
+
+**Tech:** HTML5, CSS3, JavaScript
+
+🔗 [Live Demo](https://kunal02042006.github.io/REPO-NAME/) | [Source Code](https://github.com/kunal02042006/REPO-NAME)
+
+### 🧮 LeetCode Solutions
+C++ solutions to LeetCode problems.
+
+🔗 [Source Code](https://github.com/kunal02042006/Leetcode)
+
 - 🔗 [Leetcode Solutions](https://github.com/kunal02042006/Leetcode) – C++ solutions to LeetCode problems
 
 ---
