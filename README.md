@@ -62,13 +62,12 @@ A bookstore web application featuring 10 categories and 60 engineering, computer
 
 ---
 
-### 💻 LeetCode Solutions
 
-A collection of Data Structures and Algorithms problems solved using C++. Focused on improving problem-solving skills and understanding important DSA concepts.
+### 🧮 LeetCode Solutions
+C++ solutions to LeetCode problems.
 
-**Tech:** C++
+🔗 [Source Code](https://github.com/kunal02042006/Leetcode)
 
-🔗 [LeetCode Profile](https://leetcode.com/u/Kunal0204/)
 
 ---
 
