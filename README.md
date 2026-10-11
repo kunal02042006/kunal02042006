@@ -72,6 +72,14 @@ A collection of Data Structures and Algorithms problems solved using C++. Focuse
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,14 +88,6 @@ A collection of Data Structures and Algorithms problems solved using C++. Focuse
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kunal02042006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧩 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Kunal0204?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
